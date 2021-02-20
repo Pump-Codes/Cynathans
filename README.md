@@ -2,7 +2,7 @@ Cybump  a multipurpose bot!
 
 Website: https://Cynathans.com
 Twitter: https://Twitter.com/Cynathans
-Discord: https://discord.gg/kC4BrUQprD
+Discord: https://discord.gg/DewgaKBXR7
 
 **NOT OPEN SOURCE**
 If you want to make a custom discord bot learn it from a class or just youtube! 
