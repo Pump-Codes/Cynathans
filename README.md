@@ -1,6 +1,6 @@
 Cynathans is a multipurpose bot!
 
-Website: https://Cynathans.com
+Website: https://cynathans.com
 Discord: https://discord.cynathans.com
 
 **NOT OPEN SOURCE**
