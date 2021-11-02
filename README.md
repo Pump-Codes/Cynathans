@@ -2,7 +2,7 @@ Cynathans is a multipurpose bot!
 
 Website: https://cynathans.com                                                                                       
 Invite: https://cynathans.com/bot                                                                        
-Discord: https://discord.cynathans.com
+Discord: https://cynathans.com/discord
 
 **NOT OPEN SOURCE**                                                                                                 
 If you want to make a custom discord bot learn it from a class or just youtube!                                                              
